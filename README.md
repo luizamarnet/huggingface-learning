@@ -1,4 +1,4 @@
-# Learning to Use Hugging Face [🚧 Project Under Construction 🚧]
+# Learning How to Use Hugging Face [🚧 Project Under Construction 🚧]
 
 Small, self-contained experiments while I learn and test Hugging Face: Transformers, Datasets, and Hub.
 
